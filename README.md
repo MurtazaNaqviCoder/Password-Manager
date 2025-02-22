@@ -36,8 +36,7 @@ A lightweight **single-file** password manager built using **HTML, CSS, and Java
 ---
 
 ## 📸 Screenshots
-
-<img src ="https://media.discordapp.net/attachments/1131254841805643911/1342795710512369684/Screenshot_2025-02-22_145003.png?ex=67baef75&is=67b99df5&hm=03cdf1c75a59868dce71f08a7071a93652c113bbd984cbba4c674a20b25433b9&=&format=webp&quality=lossless&width=1059&height=503" height = 500 width = 1000>
+<img src ="https://media.discordapp.net/attachments/1131254841805643911/1342795710512369684/Screenshot_2025-02-22_144003.png?ex=67baef75&is=67b99df5&hm=03cdf1c75a59868dce71f08a7071a93652c113bbd984cbba4c674a20b25433b9&=&format=webp&quality=lossless&width=1059&height=503" height = 500 width = 1000>
 <img src ="https://media.discordapp.net/attachments/1131254841805643911/1342795710797709312/Screenshot_2025-02-22_144016.png?ex=67baef75&is=67b99df5&hm=ecb3d0fb47964eb97c9cd5b5dd831c09f700ceb65ae274584847fb21c8e79add&=&format=webp&quality=lossless&width=1063&height=503" height = 500 width = 1000>
 <img src ="https://media.discordapp.net/attachments/1131254841805643911/1342795711103631462/Screenshot_2025-02-22_144025.png?ex=67baef75&is=67b99df5&hm=5d70211582a248cabcfdb59e9e123be03ec723b7ec1b6e23319fcf204578ebeb&=&format=webp&quality=lossless&width=1059&height=503" height = 500 width = 1000>
 <img src ="https://media.discordapp.net/attachments/1131254841805643911/1342795711451893771/Screenshot_2025-02-22_144100.png?ex=67baef75&is=67b99df5&hm=ed60fab94c34b70649099523b870fff9488c95b5105cf2137f5c0cbc12f689bb&=&format=webp&quality=lossless&width=1056&height=503" height = 500 width = 1000>
@@ -46,6 +45,7 @@ A lightweight **single-file** password manager built using **HTML, CSS, and Java
 <img src ="https://media.discordapp.net/attachments/1131254841805643911/1342795712542281748/Screenshot_2025-02-22_144137.png?ex=67baef75&is=67b99df5&hm=ed4d1e57a79c2f9c36bc7f60d1fbf4a933ebe5b8d8cf6b173ca96dd23d0aba4d&=&format=webp&quality=lossless&width=1063&height=503" height = 500 width = 1000>
 <img src ="https://media.discordapp.net/attachments/1131254841805643911/1342795712940998727/Screenshot_2025-02-22_144148.png?ex=67baef75&is=67b99df5&hm=9b411f17a7031c0b1baa83f64e5fc8145c426335f6bcc7fef27b4c0d12bd0ac3&=&format=webp&quality=lossless&width=1054&height=503" height = 500 width = 1000>
 <img src ="https://media.discordapp.net/attachments/1131254841805643911/1342795713225949214/Screenshot_2025-02-22_144202.png?ex=67baef75&is=67b99df5&hm=06ba75ed26c697b927772b80bb7d8c94ea0273ee22f7be85154c603e445b7c5e&=&format=webp&quality=lossless&width=1065&height=503" height = 500 width = 1000>
+
 
 
 ---
