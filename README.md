@@ -11,14 +11,14 @@ A lightweight **single-file** password manager built using **HTML, CSS, and Java
 ✅ **Edit & Delete** – Update or remove stored credentials anytime.  
 ✅ **CSV Export** – Export stored data separately for each category.  
 ✅ **Dark Mode 🌙** – Toggle dark mode for a better viewing experience.  
-✅ **Simple Login System** – Use `murtaza` as the password to access the dashboard.  
+✅ **Simple Login System** – Use `passwordmanager` as the password to access the dashboard.  
 ✅ **User-Friendly UI** – Clean and minimalistic design.  
 
 ---
 
 ## 🚀 How to Use
 
-1️⃣ **Login** – Enter `murtaza` as the password and click the **Login** button or press **Enter**.  
+1️⃣ **Login** – Enter `passwordmanager` as the password and click the **Login** button or press **Enter**.  
 2️⃣ **Dashboard** – Navigate between tabs (**Passwords, Credit Cards, Phone Numbers, and Notes**).  
 3️⃣ **Add Credentials** – Click the **Add** button to save new credentials.  
 4️⃣ **Edit/Delete** – Modify or remove saved credentials anytime.  
